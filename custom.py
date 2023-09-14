@@ -32,7 +32,7 @@ layout = [
 ]
 
 # Replace 'icon.ico' with the path to your custom icon
-window = sg.Window('Form - Ayie', layout, icon='DP.ico')
+window = sg.Window('Form - Ayie', layout, icon='icon.ico')
 
 def clear_input():
     for key in values:
